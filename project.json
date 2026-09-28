@@ -1,0 +1,13 @@
+{
+  "name": "eldo-e-move-ai",
+  "purpose": "AI-enabled clean-energy urban mobility platform",
+  "pilot_city": "Eldoret",
+  "expansion_cities": [
+    "Nairobi",
+    "Mombasa",
+    "Kisumu",
+    "Nakuru"
+  ],
+  "deployment": "Vercel static site",
+  "event": "CIRIS 24-Hour AI Hackathon, 14-15 October 2026"
+}
